@@ -2,7 +2,7 @@
 
 I work as a front-end developer at Kronoos and Softecnologia
 
-Since I was 13 years old, I've been venturing into the world of programming, and today I certainly don't know what I would be if I weren't a developer. 😅
+Since I was 15 years old, I've been venturing into the world of programming, and today I certainly don't know what I would be if I weren't a developer. 😅
 
 I love what I do and I'm always looking for new things to learn. 📖
 
