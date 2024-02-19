@@ -1,6 +1,6 @@
 ### Hi, I'm Gabriel Queiroz 👋
 
-I work as a front-end developer at Kronoos and Softecnologia
+I work as a front-end developer at Softecnologia
 
 Since I was 15 years old, I've been venturing into the world of programming, and today I certainly don't know what I would be if I weren't a developer. 😅
 
